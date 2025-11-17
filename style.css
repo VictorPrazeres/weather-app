@@ -5,6 +5,45 @@
   font-family: "Poppins", sans-serif;
 }
 
-.app-container {
+html {
+  background-color: #e2eaf5;
+}
+
+body {
   max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.app-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 40px;
+}
+
+.navbar-container {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-container img {
+  margin-right: 20px;
+}
+
+/* Utilities */
+.custom-input {
+  border: none;
+  border-radius: 15px;
+  background-color: #fdfffe;
+  color: #232323;
+  padding: 16px;
+  width: 100%;
+}
+
+.custom-input:focus {
+  outline: 3px solid #3aa2ff;
+}
+
+.custom-input::placeholder {
+  color: #b1b8c0;
 }
