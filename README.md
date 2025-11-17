@@ -2,22 +2,6 @@
 
 Este é um projeto de front-end para a interface de um aplicativo de previsão do tempo, chamado "Clima Hoje". O projeto foi desenvolvido como um exercício prático para aplicar conceitos fundamentais e avançados de HTML5 e CSS3, com foco total na construção de um layout complexo e responsivo sem o uso de frameworks.
 
-### 🔗 **Deploy (Versão Ao Vivo)**
-
-Você pode visualizar o projeto em funcionamento através do GitHub Pages:
-
-**https://victorprazeres.github.io/weather-app/**
-
----
-
-### 🖥️ Visualização do Projeto
-
-O layout foi construído para ser visualmente atraente e funcional em desktops e dispositivos móveis.
-
-
-| Versão Desktop | Versão Mobile |
-| :---: | :---: |
-| ![Preview do projeto em tela de desktop](httpsAN_IMAGE_URL_HERE) | ![Preview do projeto em tela de celular](AN_IMAGE_URL_HERE) |
 
 ---
 
